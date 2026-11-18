@@ -430,10 +430,24 @@ workflow manually from the Actions tab of the repository, on the branch or tag t
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/Golden007-prog">
+        <img src="https://avatars.githubusercontent.com/u/140976895?v=4" width="100" alt="Golden007-prog"/>
+        <br />
+        <sub><b>Golden007-prog</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HafidIdrissi">
         <img src="https://avatars.githubusercontent.com/u/57899900?v=4" width="100" alt="HafidIdrissi"/>
         <br />
         <sub><b>HafidIdrissi</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/inverteum">
+        <img src="https://avatars.githubusercontent.com/u/11546520?v=4" width="100" alt="inverteum"/>
+        <br />
+        <sub><b>inverteum</b></sub>
       </a>
     </td>
     <td align="center">
@@ -450,6 +464,8 @@ workflow manually from the Actions tab of the repository, on the branch or tag t
         <sub><b>Josequevedov08</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/LyViolz">
         <img src="https://avatars.githubusercontent.com/u/67195096?v=4" width="100" alt="LyViolz"/>
@@ -464,8 +480,6 @@ workflow manually from the Actions tab of the repository, on the branch or tag t
         <sub><b>mangomac</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Mr-Neutr0n">
         <img src="https://avatars.githubusercontent.com/u/64578610?v=4" width="100" alt="Mr-Neutr0n"/>
@@ -494,6 +508,8 @@ workflow manually from the Actions tab of the repository, on the branch or tag t
         <sub><b>Sahilkumar-r</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/SHEKHAR-Y">
         <img src="https://avatars.githubusercontent.com/u/242377436?v=4" width="100" alt="SHEKHAR-Y"/>
@@ -508,8 +524,6 @@ workflow manually from the Actions tab of the repository, on the branch or tag t
         <sub><b>TaniaW777</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Yann-CV">
         <img src="https://avatars.githubusercontent.com/u/54800486?v=4" width="100" alt="Yann-CV"/>
